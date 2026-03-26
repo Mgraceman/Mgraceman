@@ -1,4 +1,4 @@
-# Hi there 👋, I'm <Your Name>
+# Hi there 👋, I'm <Adeoluwa Adesina>
 
 ## 🚀 About Me
 - 🔭 I’m currently working on exciting projects in web development
